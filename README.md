@@ -1,1 +1,1 @@
-# Coding-Tutorial
+This is the repo for my YouTube tutorial on C#. This repo will have everything organized based upon the video. Each video will have its own video. The solution to the "assignments" I give will be in the next weeks folder. Everything provided here will be much more heavily commented to help
