@@ -4,7 +4,7 @@
 
 
 // Namespace of this script. Can be anything. Same namespaces are connected to one another
-namespace VideoOne
+namespace DocumentationVideoOne
 {
     // Class. Thats about it for now
     internal class Program
